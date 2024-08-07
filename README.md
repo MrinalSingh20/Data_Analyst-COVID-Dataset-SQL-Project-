@@ -1,1 +1,1 @@
-# Data_Analyst-COVID-Dataset-SQL-Project-
+Covid Data Analyst Project by SQL
